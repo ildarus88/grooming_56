@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif */
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: normal;
+    /* text-decoration: underline; */
+    /* font-style: italic; */
+    /* letter-spacing: 2px; */
+    /* word-spacing: 20px; */
+}
+
+/* .options ol {
+    font-family: 'Courier new', sans-serif;
+    color: rgb(66, 64, 64);
+    font-size: 20px;
+    font-weight: bold;
+
+} */
+
+h3 {
+    color: rgb(26, 6, 206);
+    /* background: #f1f1f1 */
+}
