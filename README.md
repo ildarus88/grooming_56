@@ -1,3 +1,3 @@
 # Мой первый самописный сайт
 ## Результат можно посмотреть тут
-[Моя первая работа на HTML & CSS] (https://github.com/ildarus88/grooming_56)
+[Моя первая работа на HTML & CSS] (https://ildarus88.github.io/grooming_56/)
